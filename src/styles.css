@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    font-family: "Merriweather", serif;
+}
+
+body {
+    background: url(https://st2.depositphotos.com/1757635/8830/i/450/depositphotos_88302772-stock-photo-global-business-strategy.jpg) no-repeat center fixed;
+    background-size: cover;
+}
